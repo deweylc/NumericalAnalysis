@@ -1,0 +1,11 @@
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\obj\Debug\netcoreapp3.0\NumericalAnalysis.csprojAssemblyReference.cache
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\obj\Debug\netcoreapp3.0\NumericalAnalysis.AssemblyInfoInputs.cache
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\obj\Debug\netcoreapp3.0\NumericalAnalysis.AssemblyInfo.cs
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\bin\Debug\netcoreapp3.0\NumericalAnalysis.exe
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\bin\Debug\netcoreapp3.0\NumericalAnalysis.deps.json
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\bin\Debug\netcoreapp3.0\NumericalAnalysis.runtimeconfig.json
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\bin\Debug\netcoreapp3.0\NumericalAnalysis.runtimeconfig.dev.json
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\bin\Debug\netcoreapp3.0\NumericalAnalysis.dll
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\bin\Debug\netcoreapp3.0\NumericalAnalysis.pdb
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\obj\Debug\netcoreapp3.0\NumericalAnalysis.dll
+E:\GitHub\NumericalAnalysis\NumericalAnalysis\obj\Debug\netcoreapp3.0\NumericalAnalysis.pdb
